@@ -13,7 +13,7 @@ A simple and elegant **Alert View** built with **SwiftUI** which can be used in 
 - iOS  14 or later
 
 ### Installation
-1. On your iOS project fo to File -> Add Package Dependencies and search for below repo:
+1. On your iOS project go to File -> Add Package Dependencies and search for below repo:
    ```bash
    https://github.com/nathMonisankar/ios-alert-view.git
    ```
@@ -48,3 +48,4 @@ showGlobalAlert(
 )
 ```
 
+ - **You can check out the Example App [here](https://github.com/nathMonisankar/ios-test-app)**
