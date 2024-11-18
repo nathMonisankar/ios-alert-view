@@ -1,6 +1,6 @@
-# 🔔 IOS Alert Box
+# 🔔 IOS Alert View
 
-A simple and elegant **Alert Box** built with **SwiftUI** which can be used in any iOS project.
+A simple and elegant **Alert View** built with **SwiftUI** which can be used in any iOS project.
 
 ## 🛠 Technologies
 
@@ -15,7 +15,7 @@ A simple and elegant **Alert Box** built with **SwiftUI** which can be used in a
 ### Installation
 1. On your iOS project fo to File -> Add Package Dependencies and search for below repo:
    ```bash
-   https://github.com/nathMonisankar/ios-alert-box.git
+   https://github.com/nathMonisankar/ios-alert-view.git
    ```
 2. Add the package and then import and start using it.
 
@@ -25,7 +25,7 @@ A simple and elegant **Alert Box** built with **SwiftUI** which can be used in a
 
 ```swift
 @main
-struct TestAppApp: App {
+struct IosApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
